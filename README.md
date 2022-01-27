@@ -9,9 +9,8 @@ To protect users' data, there will be an OTP mechanism implemented by making use
 
 # Technologies Used
 <h2>IDE </h2><br>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Android_Studio_Trademark.svg/1280px-Android_Studio_Trademark.svg.png" style="height:100px; width:300px;">
-
+  <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white">
 <h2>Front end </h2><br>
-  <img src="https://cdn.iconscout.com/icon/free/png-256/xml-file-2330558-1950399.png" style="height:100px; width:100px;"><img src="https://1000logos.net/wp-content/uploads/2020/09/Java-Logo.png" style="height:100px; width:150px;">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"><img src="https://img.icons8.com/external-prettycons-flat-prettycons/47/000000/external-file-file-types-prettycons-flat-prettycons-2.png"/>
 <h2>Back end </h2><br>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/SQLite370.svg/1024px-SQLite370.svg.png" style="height:100px; width:200px;">    <img src="https://firebase.google.com/downloads/brand-guidelines/PNG/logo-standard.png" style="height:100px; width:350px;">
+  <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"><img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black">
