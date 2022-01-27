@@ -10,7 +10,7 @@ To protect users' data, there will be an OTP mechanism implemented by making use
 # Technologies Used
 <h2>IDE </h2><br>
   <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white">
-<h2>Front end </h2><br>
+<h2>Languages</h2><br>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"><img src="https://img.icons8.com/external-prettycons-flat-prettycons/47/000000/external-file-file-types-prettycons-flat-prettycons-2.png"/>
-<h2>Back end </h2><br>
+<h2>Back-End Databases</h2><br>
   <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"><img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black">
